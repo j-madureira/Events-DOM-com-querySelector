@@ -1,0 +1,26 @@
+.header-main{
+    background-color: dodgerblue;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    text-align: center;
+    width: 698px;
+    border-radius: 5px;
+}
+
+.section-main{
+    background-color: cornflowerblue;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    text-align: center;
+    width: 698px;
+    font-size: 24px;
+    border-radius: 5px;
+}
+
+#main-input{
+    margin-bottom: 12px;
+    border-radius: 5px;
+    border: none;
+}
